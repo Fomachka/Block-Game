@@ -1,7 +1,7 @@
 # Block-Game
 
-An upcoming block game!!
+An upcoming block game!
 
-Block-Breaker!!
+Block-Breaker!
 
-Full Game Coming Soon!!
+Full Game Coming Soon!
