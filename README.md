@@ -1,7 +1,6 @@
 # Block-Game
 
-An upcoming block game!!
-
+Finished Block Game!
 Block-Breaker!
 
 Full Game Coming Soon!
