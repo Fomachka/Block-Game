@@ -1,6 +1,5 @@
 # Block-Game
 
-Finished Block Game!
-Block-Breaker!
+Finished Block-Breaker!
 
 Full Game Coming Soon!
