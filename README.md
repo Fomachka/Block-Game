@@ -2,4 +2,4 @@
 
 Finished Block-Breaker!
 
-Full Game is out!
+Full Game is Out!
